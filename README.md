@@ -1,6 +1,6 @@
 ## Hi there, I'm Enosh Perera! 👋
 
-### 💻 Software Engineering Undergraduate | Full-Stack Developer | Tech Enthusiast
+### 💻 Software Engineering Undergraduate | Tech Enthusiast
 
 I am an undergraduate at the Informatics Institute of Technology (IIT), pursuing a Bachelor of Engineering (Hons) in Software Engineering. Passionate about technology and software development, I continuously strive to enhance my coding, problem-solving, and critical-thinking skills. My goal is to develop innovative solutions that create a real-world impact.
 
