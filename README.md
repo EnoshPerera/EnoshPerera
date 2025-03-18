@@ -35,14 +35,6 @@ I am an undergraduate at the Informatics Institute of Technology (IIT), pursuing
 
 ---
 
-### 🏆 Projects:
-- **Student Grade Record System** *(Python-based system for efficient student grade management)*
-- **Health-related Website** *(E-commerce and health information platform – Group Project)*
-- **Plane Management System** *(Java application for managing passenger data, seat allocations, and ticket reservations)*
-- **ticket Management System** *(java based CLI for vendors and customers-multiple vendors can add tickets and multiple customers can buy tickets concurrently.-used java OOP concepts,react,springboot)*
-
----
-
 ### 📫 Connect with me:
 - 📧 Email: [enoshperera2003@gmail.com](mailto:enoshperera2003@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/enosh-perera-279213296](https://www.linkedin.com/in/enosh-perera-279213296/)
